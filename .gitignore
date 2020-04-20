@@ -1,0 +1,12 @@
+#ccBatchAnalyzer
+#Idea files
+.idea
+#Ignore boards
+boards
+
+#Ignore binaries
+ccba
+ccba.exe
+
+#Ignore report
+report.csv
