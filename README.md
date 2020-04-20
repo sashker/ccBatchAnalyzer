@@ -5,11 +5,11 @@ for Kryss (https://www.kryds.app/) using Crossword-Compiler (https://www.crosswo
 The utility reads all boards in the given directory (only XML files), looks for duplicate words,
 and creates a simple CSV report which can be analysed later.
 
-##Usage
+## Usage
 "It's better to see something once..."
 [![asciicast](https://asciinema.org/a/321964.svg)](https://asciinema.org/a/321964)
 
-##Flags
+## Flags
 * **--boards** Specifies path to the directory where all boards placed.
 The program walks through directories recursively (which means that included directories will be processed)
 * **--report** Specifies a path to the report file (by default a report is saved as _report.csv_ in the same directory)
